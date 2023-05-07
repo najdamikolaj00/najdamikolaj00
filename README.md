@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=COVID-19-CT-Classification&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&color=4fb1ba)](https://github.com/najdamikolaj00/COVID-19-CT-Classification)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=COVID-19-CT-Classification&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/COVID-19-CT-Classification)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=HNP-Poland-Database&theme=dark&bg_color=00000000)](https://github.com/najdamikolaj00/HNP-Poland-Database)
 [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=Image_Operations_API&theme=dark&bg_color=00000000)](https://github.com/najdamikolaj00/Image_Operations_API)
 [![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=VoiceSignals&theme=dark&bg_color=00000000)](https://github.com/najdamikolaj00/VoiceSignals)
