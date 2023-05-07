@@ -17,8 +17,8 @@
   
  # 📊 GitHub Stats
 <div style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=najdamikolaj00&hide_border=true&background=00000000&theme_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&theme_color=ffffff" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=najdamikolaj00&theme=dark&hide_border=true&background=00000000&stroke=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&stroke=transparent" />
 </div>
  
 # 💻 Tech Stack:
