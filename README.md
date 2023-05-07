@@ -16,12 +16,27 @@
 </div>
   
  # 📊 GitHub Stats
-<div style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=najdamikolaj00&theme=dark&hide_border=true&background=00000000&stroke=transparent#gh-dark-mode-only" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=najdamikolaj00&hide_border=true&background=00000000&stroke=transparent#gh-light-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&stroke=transparent" />
+  
+ <div style="display:flex; justify-content:space-between;">
+    <a href="https://github.com/najdamikolaj00/github-readme-streak-stats#gh-dark-mode-only">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=najdamikolaj00&theme=dark&hide_border=true&background=00000000&stroke=transparent#gh-dark-mode-only"/>
+    </a>
+    <a href="https://github.com/najdamikolaj00/github-readme-stats#gh-dark-mode-only">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&stroke=transparent#gh-dark-mode-only"/>
+    </a>
 </div>
- 
+
+  <div style="display:flex; justify-content:space-between;">
+    <a href="https://github.com/najdamikolaj00/github-readme-streak-stats#gh-light-mode-only">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=najdamikolaj00&theme=dark&hide_border=true&background=00000000&stroke=transparent#gh-light-mode-only"/>
+    </a>
+    <a href="https://github.com/najdamikolaj00/github-readme-stats#gh-light-mode-only">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&stroke=transparent#gh-light-mode-only"/>
+    </a>
+</div>
+
+
+   
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
