@@ -9,9 +9,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 <div align="center">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=najdamikolaj00&theme=dark&hide_border=true)<br/>
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=najdamikolaj00&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
