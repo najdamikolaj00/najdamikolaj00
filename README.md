@@ -10,8 +10,8 @@
 
 <div align="center">
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=najdamikolaj00&theme=dark&hide_border=true&bg_color=212121)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121)
+![](https://github-readme-stats.vercel.app/api?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=najdamikolaj00&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
