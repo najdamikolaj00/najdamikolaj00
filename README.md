@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Cześć 🇵🇱
 </h1>
-  🔭 I’m currently working on COVID-19 image classification and learning PyTorch, TensorFlow, scikit-learn, OpenCV<br>👯 I’m looking to collaborate on Fiji (ImageJ) plugin<br>📫 Reach me :arrow_right: najdamikolaj@protonmail.com<br>📄 Research Gate https://www.researchgate.net/profile/Mikolaj-Najda
+  🔭 I’m currently working on COVID-19 image classification, thanks to this project I am expanding my knowledge in PyTorch, TensorFlow, scikit-learn, OpenCV<br>👯 I’m looking to collaborate on Fiji (ImageJ) plugin<br>📫 Reach me :arrow_right: najdamikolaj@protonmail.com<br>📄 Research Gate https://www.researchgate.net/profile/Mikolaj-Najda
 
  <h3 align="center">📌 Pinned Repositories</h3>
 <p align="center">Take a look at my most outstanding repositories.</p>
