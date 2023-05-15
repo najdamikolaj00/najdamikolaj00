@@ -8,10 +8,10 @@
 
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=COVID-19-CT-Classification&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/COVID-19-CT-Classification)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=HNP-Poland-Database&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/HNP-Poland-Database)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=Image_Operations_API&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/Image_Operations_API)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=najdamikolaj00&repo=VoiceSignals&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/VoiceSignals)
+[![Project 1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=najdamikolaj00&repo=COVID-19-CT-Classification&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/COVID-19-CT-Classification)
+[![Project 2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=najdamikolaj00&repo=HNP-Poland-Database&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/HNP-Poland-Database)
+[![Project 3](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=najdamikolaj00&repo=Image_Operations_API&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/Image_Operations_API)
+[![Project 4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=najdamikolaj00&repo=VoiceSignals&bg_color=00000000&theme_color=ffffff)](https://github.com/najdamikolaj00/VoiceSignals)
   
 </div>
   
@@ -22,7 +22,7 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=najdamikolaj00&theme=dark&hide_border=true&background=00000000&stroke=transparent#gh-dark-mode-only"/>
     </a>
     <a href="https://github.com/najdamikolaj00/github-readme-stats#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&stroke=transparent#gh-dark-mode-only"/>
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=najdamikolaj00&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&stroke=transparent#gh-dark-mode-only"/>
     </a>
 </div>
 
