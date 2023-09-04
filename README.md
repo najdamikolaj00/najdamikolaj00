@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Cześć 🇵🇱
 </h1>
-  🔭 I’m currently working on CVD from speech and video classification.<br>👯 I’m looking to collaborate on Fiji (ImageJ) plugin<br>📫 Reach me :arrow_right: najdamikolaj@protonmail.com<br>📄 Research Gate https://www.researchgate.net/profile/Mikolaj-Najda
+  🔭 I’m currently working on my own python library with speech/audio analysis utilities and CVD from speech & video classification.<br>👯 I’m looking to collaborate on Fiji (ImageJ) plugin<br>📫 Reach me :arrow_right: najdamikolaj@protonmail.com<br>📄 Research Gate https://www.researchgate.net/profile/Mikolaj-Najda
   
  # 📊 GitHub Stats
   
